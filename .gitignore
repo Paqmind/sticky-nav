@@ -1,0 +1,6 @@
+# Common folders
+.idea/
+ignore/
+
+# Common files
+.DS_Store
